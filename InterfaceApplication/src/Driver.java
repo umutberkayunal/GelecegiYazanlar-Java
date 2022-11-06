@@ -25,5 +25,4 @@ public class Driver {
 		frame.setVisible(true);
 		
 	}
-
-}
+} 
